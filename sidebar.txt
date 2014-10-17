@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tbi:home|Door43 (tbi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tbi|d43-tbi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tbi/archive/master.zip|d43-tbi.zip]]
+
+**Recent Changes**
+{{changes>ns = tbi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tbi|Ethnologue data]]
+
